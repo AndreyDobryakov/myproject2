@@ -1,5 +1,7 @@
 public class App {
 	public static void main(String[] args) {
-		System.out.println("Hello world!");
+		String name = "Andrey";
+
+		System.out.println("Hello ugly world!");
 	}
 }
