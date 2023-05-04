@@ -5,7 +5,7 @@ public class App {
 		String name = "Andrey";
 		Stuff p = new Stuff();
 
-		System.out.println( "Mr. " + p.firstName + p.surName);
+		System.out.println( "Mr. " + p.firstName + ", " + p.surName);
 
 	}
 }
