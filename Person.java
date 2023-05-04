@@ -1,6 +1,7 @@
 class Person {
 	
-	String name;
+	String firstName;
+	String surName;
 	
 	int age;
 }
