@@ -3,4 +3,7 @@ public final class Stuff extends Person {
 	String medicalPlan;
 	int salary;
 
+	public String toString() {
+		return  position + " " + firstName;
+	}
 }
