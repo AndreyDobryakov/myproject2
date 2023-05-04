@@ -2,6 +2,6 @@ public class App {
 	public static void main(String[] args) {
 		String name = "Andrey";
 		Stuff p = new Stuff();
-		System.out.println("Hello ugly world!!!");
+		System.out.println( p.name );
 	}
 }
